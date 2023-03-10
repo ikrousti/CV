@@ -1,0 +1,19 @@
+body {
+    max-width: 960px;
+    background-color: #FEE3EC;
+    margin: auto;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #F9C5D5;
+    border-width: 5px;
+    width: 40%
+}
+
+h1,
+h2,
+h3 {
+    color: #F2789F;
+}
